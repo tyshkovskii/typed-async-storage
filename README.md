@@ -1,5 +1,8 @@
 [![Build](https://img.shields.io/github/workflow/status/artxty/typed-async-storage/Node.js%20CI?style=flat-square)](https://github.com/artxty/typed-async-storage/actions?query=workflow%3A%22Node.js+CI%22)
 
+> [!IMPORTANT]
+> This repo is no longer maintained. Use TypeScript and libraries like [Zod](https://zod.dev/) for better type safety and validation.
+
 # typed-async-storage
 
 A tiny wrapper for [AsyncStorage](https://github.com/react-native-community/async-storage) that allows creating schema-based storage and validation using [PropTypes](https://www.npmjs.com/package/prop-types)  
